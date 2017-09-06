@@ -6,3 +6,4 @@ Metrics/LineLength:
     - config/**/*
     - db/**/*
     - Rakefile
+    - spec/*
