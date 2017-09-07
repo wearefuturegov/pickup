@@ -7,3 +7,12 @@ Metrics/LineLength:
     - db/**/*
     - Rakefile
     - spec/*
+Layout/EmptyLinesAroundBlockBody:
+  Exclude:
+    - db/**/*
+Style/StringLiterals:
+  Exclude:
+    - db/**/*
+Layout/EmptyLinesAroundBlockBody:
+  Exclude:
+    - db/**/*
